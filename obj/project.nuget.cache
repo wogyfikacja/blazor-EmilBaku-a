@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EI5iEp9ikaxsbssghJVchojlZZRYg7h1R+Q9LjH29/o/ukGFACC3zc2g4hj5RWntAY/2ByJnP8++atPkWGr6Mw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\emil1\\Desktop\\blazor-22c\\blazor-22c.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emil1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
